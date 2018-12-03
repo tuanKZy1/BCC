@@ -39,7 +39,7 @@ echo  "============================" | lolcat
 echo -e $blue"    [ 99 ]> ${white}keluar"
 echo  "============================" | lolcat
 echo
-read -p"silahkan pilih=>"pil;
+read -p"silahkan pilih=>" slc;
 
 if [ $slc = 1 ] || [ $slc = 01 ]
 then
