@@ -1,6 +1,6 @@
 InYourS3rv3r.sh
 
-#!/data/data/com.termux/files/usr/bin/bash
+#/data/data/com.termux/files/usr/bin/bash
 
 clear
 #colors
